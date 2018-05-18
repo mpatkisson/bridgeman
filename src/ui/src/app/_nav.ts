@@ -2,7 +2,7 @@ export const navItems = [
   {
     name: 'News',
     url: '/dashboard',
-    icon: 'icon-note',
+    icon: 'fa fa-bullhorn',
     badge: {
       variant: 'danger',
       text: 'NEW'
@@ -11,7 +11,7 @@ export const navItems = [
   {
     name: 'Search',
     url: '/search',
-    icon: 'icon-globe',
+    icon: 'fa fa-search',
     badge: {
       variant: 'danger',
       text: 'NEW'
