@@ -4,7 +4,7 @@ export const navItems = [
     url: '/dashboard',
     icon: 'icon-note',
     badge: {
-      variant: 'info',
+      variant: 'danger',
       text: 'NEW'
     }
   },
@@ -13,7 +13,7 @@ export const navItems = [
     url: '/search',
     icon: 'icon-globe',
     badge: {
-      variant: 'info',
+      variant: 'danger',
       text: 'NEW'
     }
   }
