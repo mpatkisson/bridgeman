@@ -23,7 +23,7 @@ system.
 ## Artwork
 
 A gallery of my own university related art as well as contributions from others.
-Wallpapers, skinz, logos ... that sort of thing.
+Wallpapers, skins, logos ... that sort of thing.
 
 ## Alumni
 
