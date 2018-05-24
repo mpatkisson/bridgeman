@@ -1,4 +1,4 @@
-## [angular](./README.md) version `changelog`
+## [angular](README.md) version `changelog`
 
 ###### `v1.0.10`
 - update: ngx-bootstrap to `2.0.2`
