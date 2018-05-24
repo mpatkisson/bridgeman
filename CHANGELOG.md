@@ -1,4 +1,4 @@
-# [Bridgeman](README.md) version `changelog`
+# [Bridgeman](README.md) Change Log
 
 ## `v0.10.0`
 
