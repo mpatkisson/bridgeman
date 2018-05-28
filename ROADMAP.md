@@ -15,6 +15,12 @@ summaries.
 
 Should allow users to search for anything the site archives or by facet.
 
+## Wiki
+
+I don't think there's a good university centric wiki out there.  This would
+fill a need and foster community.  People who update the wiki should be given
+some sort of reputation score.
+
 ## Q and A (i.e. Stack Overflow)
 
 Should allow questions to be raised and answered with a point or reputation
